@@ -1,7 +1,7 @@
 package me.albemala.md5_file_checksum
 
 import androidx.annotation.NonNull
-import dev.flutter.pigeon.Pigeon
+import dev.flutter.pigeon.md5.Pigeon
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import me.albemala.md5_file_checksum.getMd5FileChecksum
 
